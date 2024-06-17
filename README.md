@@ -18,4 +18,5 @@ A SwiftUI app that helps you calculate your ideal bedtime based on your desired 
 ### Technical Details
 
 Built using SwiftUI and Core ML
+
 Uses a custom Core ML model (SleepCalculator_mlmodel) to make predictions
